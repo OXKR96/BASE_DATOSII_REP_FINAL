@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ADMINISTRADOR_SQLEXPRESS.Stagin09AW"
+  DTS:DTSID="{E103F6ED-6147-4491-BC1B-27A81D428B6A}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=ADMINISTRADOR\SQLEXPRESS;Initial Catalog=Stagin09AW;Integrated Security=True;Encrypt=False;Application Name=SSIS-ETL-{E103F6ED-6147-4491-BC1B-27A81D428B6A}ADMINISTRADOR\SQLEXPRESS.Stagin09AW;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
